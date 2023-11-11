@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699720788 source:d:\nadosh\text-editor\even-or-odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
